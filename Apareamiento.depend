@@ -1,0 +1,58 @@
+# depslib dependency file v1.0
+1505676754 source:c:\users\leito\desktop\apareamiento\empleado.c
+	<stdio.h>
+	<stdlib.h>
+	"empleado.h"
+	"fecha.h"
+
+1505676754 c:\users\leito\desktop\apareamiento\empleado.h
+	"fecha.h"
+
+1505487690 c:\users\leito\desktop\apareamiento\fecha.h
+
+1505485069 source:c:\users\leito\desktop\apareamiento\fecha.c
+	<stdio.h>
+	<stdlib.h>
+	"fecha.h"
+
+1505676765 source:c:\users\leito\desktop\apareamiento\file.c
+	<stdio.h>
+	<stdlib.h>
+	"empleado.h"
+
+1505676714 source:c:\users\leito\desktop\apareamiento\main.c
+	<stdio.h>
+	<stdlib.h>
+	"empleado.h"
+
+1505497833 source:c:\users\leito\desktop\apareamiento\apareamiento.c
+
+1505497833 source:d:\aunlam\programacion\aaprogra\guia 1\apareamiento\apareamiento.c
+
+1505485069 source:d:\aunlam\programacion\aaprogra\guia 1\apareamiento\fecha.c
+	<stdio.h>
+	<stdlib.h>
+	"fecha.h"
+
+1505487690 d:\aunlam\programacion\aaprogra\guia 1\apareamiento\fecha.h
+
+1505762771 source:d:\aunlam\programacion\aaprogra\guia 1\apareamiento\main.c
+	<stdio.h>
+	<stdlib.h>
+	"empleado.h"
+
+1505762707 d:\aunlam\programacion\aaprogra\guia 1\apareamiento\empleado.h
+	"fecha.h"
+
+1505762598 source:d:\aunlam\programacion\aaprogra\guia 1\apareamiento\empleado.c
+	<stdio.h>
+	<stdlib.h>
+	"empleado.h"
+	"fecha.h"
+
+1505760530 source:d:\aunlam\programacion\aaprogra\guia 1\apareamiento\file.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"empleado.h"
+
